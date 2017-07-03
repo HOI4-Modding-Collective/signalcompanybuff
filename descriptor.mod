@@ -6,4 +6,4 @@ tags={
 }
 picture="Thumbnail.gif"
 remote_file_id="780512660"
-supported_version="1.3.*"
+supported_version="1.4.*"
